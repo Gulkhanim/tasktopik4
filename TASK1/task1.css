@@ -1,0 +1,26 @@
+.main{
+  width: 1000px;
+  margin: 0 auto;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.mommy{
+    display: flex;
+    flex-wrap: wrap;
+ margin-left: 70px;
+ filter: grayscale(0.9);
+
+}
+.column{
+
+max-width: 20%;  
+padding:  5px;
+}
+
+img{
+    width: 100%;
+}
